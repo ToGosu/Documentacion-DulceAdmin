@@ -46,3 +46,9 @@ Este modelo permite visualizar cómo el proyecto integra librerías externas, fr
 ### Conclusión
 Este modelo define la **línea base técnica** del backend *DulceAdmin*, consolidando las dependencias que garantizan su correcto funcionamiento y mantenimiento a largo plazo.  
 La clara separación entre **componentes propios y adoptados** facilita la trazabilidad de versiones, el control de compatibilidad y la evolución del sistema.
+
+[ir al inicio](/README.md).
+
+[Ir al anterior](Modelo_Clases.md).
+
+[Modelo de despliegue](Modelo_Despliegue.md).

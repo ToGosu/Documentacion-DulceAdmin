@@ -12,7 +12,7 @@ Santiago Torres Castaño
 
 ---
 
-[2. Motivadores de la arquitectura](docs/2.Moticadores_Arqutectura.md).
+[2. Motivadores de la arquitectura](docs/2.0Moticadores_Arqutectura.md).
 
 ---
 

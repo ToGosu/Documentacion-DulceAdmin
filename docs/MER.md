@@ -55,3 +55,9 @@ Este modelo fue diseñado para implementarse en **PostgreSQL**.
 
 El **Modelo Entidad–Relación** es la base estructural de la persistencia del sistema DulceAdmin.  
 Define de manera clara la organización de los datos y sus relaciones, permitiendo una gestión eficiente del inventario, clientes, trabajadores y ventas dentro del sistema.
+
+[ir al inicio](/README.md).
+
+[Ir al anterior](8.Justificacion_LineaBase.md).
+
+[Modelo de actividades](Modelo_Actividades.md).

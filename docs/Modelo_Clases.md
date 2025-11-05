@@ -43,3 +43,9 @@ Este modelo sirve como base para la implementación en Java (Spring Boot) y defi
 
 El **modelo de clases** define la estructura lógica y orientada a objetos del sistema DulceAdmin.  
 Permite comprender cómo se relacionan las entidades del dominio de negocio y sienta las bases para la implementación del sistema en Java mediante el patrón de diseño en capas.
+
+[ir al inicio](/README.md).
+
+[Ir al anterior](Modelo_Actividades.md).
+
+[Modelo de componentes](Modelo_Componentes.md).

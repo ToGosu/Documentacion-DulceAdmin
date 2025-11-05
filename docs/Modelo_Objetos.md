@@ -49,3 +49,9 @@ El pago se realiza en efectivo, y el sistema genera el recibo correspondiente.
 
 El **modelo de objetos** representa un caso real de interacción entre las entidades del sistema durante una venta.  
 Facilita la comprensión de cómo los objetos colaboran para generar un recibo, registrar el pago y actualizar el inventario.
+
+[ir al inicio](/README.md).
+
+[Ir al anterior](Modelo_Estados.md).
+
+[Modelo de paquetes](Modelo_Paquetes.md).

@@ -85,3 +85,9 @@ Capa de persistencia y comunicación con recursos externos (PostgreSQL, otros se
 ---
 
 ![Modelo de paquetes](img/ModeloPaquetes.png)
+
+[ir al inicio](/README.md).
+
+[Ir al anterior](Modelo_Objetos.md).
+
+[Modelo de secuencia](Modelo_secuencia.md).

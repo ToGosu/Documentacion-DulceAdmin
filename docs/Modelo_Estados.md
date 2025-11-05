@@ -42,3 +42,9 @@ Permite entender cómo cambia su estado en función de las acciones realizadas p
 
 El **modelo de estados del Recibo** permite comprender cómo evoluciona el documento a lo largo del proceso de venta, pago y facturación.  
 También contempla escenarios de actualización o cancelación, reflejando el comportamiento real del sistema DulceAdmin frente a cambios o errores en las transacciones.
+
+[ir al inicio](/README.md).
+
+[Ir al anterior](Modelo_Despliegue.md).
+
+[Modelo de objetos](Modelo_Objetos.md).

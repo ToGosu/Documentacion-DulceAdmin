@@ -50,3 +50,7 @@ Además, permite:
 ![Modelo de Secuencia – Hacer una venta](img/ModeloSecuencia.png)
 
 > **Figura:** Diagrama de secuencia del caso de uso *Hacer una venta*, mostrando las interacciones entre el usuario, las interfaces y los módulos del sistema.
+
+[ir al inicio](/README.md).
+
+[Ir al anterior](Modelo_Paquetes.md).

@@ -66,3 +66,9 @@ El objetivo del modelo es mostrar cómo se orquestan las decisiones y tareas nec
 
 El modelo de actividades demuestra de forma clara cómo el sistema DulceAdmin coordina tareas automáticas y manuales en el proceso de venta.  
 La secuencia asegura la integridad de los datos, la consistencia del inventario y una correcta facturación para cada transacción.
+
+[ir al inicio](/README.md).
+
+[Ir al anterior](MER.md).
+
+[Modelo de clases](Modelo_Clases.md).

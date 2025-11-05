@@ -56,3 +56,9 @@ Esta arquitectura combina el uso de **contenedores Docker**, **servicios PaaS** 
 
 El **modelo de despliegue de DulceAdmin** combina servicios gestionados y contenedores para ofrecer una infraestructura ágil, modular y segura.  
 Este enfoque permite escalar fácilmente el sistema, simplificar el mantenimiento y asegurar una experiencia estable para los usuarios finales.
+
+[ir al inicio](/README.md).
+
+[Ir al anterior](Modelo_Componentes.md).
+
+[Modelo de estados](Modelo_Estados.md).
